@@ -1,9 +1,40 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 
-The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
+# AN IMMERSIVE EXPERIENCE
 
-The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple undergraduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
+Students of Latin American Studies have the opportunity to participate in the Latin American Studies Semester (LASS) through the Department of Spanish & Portuguese. Students take classes only in the target language and have the opportunity to study abroad together for several weeks in a Latin American country.
+
+# TRAVEL THE WORLD
+
+Our students have the opportunity to study in Latin America for a semester or more. Our interdisciplinary program means that most credits taken through approved study abroad programs will apply toward graduation. Recent graduates have studied in Argentina, Brazil, Chile, the Dominican Republic, Ecuador, Guatemala, Mexico and Peru.
+
+# ACADEMIC OFFERINGS
+
+• BA in Latin American Studies
+• Minor in Latin American Studies
+
+## [Latin American Studies Major](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/ba-latin-american-studies/#requirementstext): 
+
+The Latin American Studies Major is an interdisciplinary program with a focus on the study of social problems of Latin America. Latin America’s art, literature and religious thought have been universally recognized for their high quality and contribution to world civilization. At the same time, extreme social inequality persists in Latin America in addition to rapid urban growth, dramatic ecological change and political upheavals with powerful local and global implications. The Latin American Studies major offers a variety of courses that examine these issues. To complete the major, students must take twelve 3-credit courses in Latin American Studies, and demonstrate a reading and speaking knowledge of Spanish or Portuguese.
+
+## [Latin American Studies Minor](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/minor-latin-american-studies/): 
+
+The Latin American Studies Minor enables students to combine the requirements of their majors with the study of Latin America. It is designed to be of particular value to students who intend to engage in technical, professional, business, or government work involving Latin America. To earn the minor, students must complete six 3 credit courses in subjects with a Latin American emphasis, and demonstrate a reading knowledge and speaking facility of Spanish or Portuguese.
+
+## CURRICULUM
+
+Students majoring or minoring in Latin American Studies:
+
+- Study the culture, geography, history, politics, and society of Latin America and the Caribbean.
+- Gain an understanding of the background of the Latino population in the United States.
+- Understand economic development and underdevelopment from a comparative perspective.
+- Gain insight into interdisciplinary work in the social sciences from a variety of methodological perspectives.
+- Improve their writing and critical thinking skills.
+- Combine in-depth training in Spanish and/or Portuguese with the lived experience of speakers of these languages.
+
+[VIEW OUR COURSE CATALOG](http://www.cla.temple.edu/spanpor/files/2016/03/Spanish-and-Portuguese-Course-Catalog-Fall-2016.pdf)
