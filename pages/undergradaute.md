@@ -5,18 +5,18 @@ layout: page
 published: true
 ---
 
-# AN IMMERSIVE EXPERIENCE
+# An Immersive Experience
 
 Students of Latin American Studies have the opportunity to participate in the Latin American Studies Semester (LASS) through the Department of Spanish & Portuguese. Students take classes only in the target language and have the opportunity to study abroad together for several weeks in a Latin American country.
 
-# TRAVEL THE WORLD
+# Travel The World
 
 Our students have the opportunity to study in Latin America for a semester or more. Our interdisciplinary program means that most credits taken through approved study abroad programs will apply toward graduation. Recent graduates have studied in Argentina, Brazil, Chile, the Dominican Republic, Ecuador, Guatemala, Mexico and Peru.
 
-# ACADEMIC OFFERINGS
+# Academic Offerings
 
-• BA in Latin American Studies
-• Minor in Latin American Studies
+• [BA in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/ba-latin-american-studies/)
+• [Minor in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/minor-latin-american-studies/)
 
 ## [Latin American Studies Major](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/ba-latin-american-studies/#requirementstext): 
 
@@ -26,7 +26,7 @@ The Latin American Studies Major is an interdisciplinary program with a focus on
 
 The Latin American Studies Minor enables students to combine the requirements of their majors with the study of Latin America. It is designed to be of particular value to students who intend to engage in technical, professional, business, or government work involving Latin America. To earn the minor, students must complete six 3 credit courses in subjects with a Latin American emphasis, and demonstrate a reading knowledge and speaking facility of Spanish or Portuguese.
 
-## CURRICULUM
+## Curriculum
 
 Students majoring or minoring in Latin American Studies:
 
