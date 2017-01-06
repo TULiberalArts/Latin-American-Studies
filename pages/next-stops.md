@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-# NEXT STOPS:
+# Next Stops:
 
 Internships have been available to students majoring in Latin American Studies through community organizations like Taller Puertorriqueño, Congreso de Latinos Unidos and the Latin American Economic Development Association.
 
