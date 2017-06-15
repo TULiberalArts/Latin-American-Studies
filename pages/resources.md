@@ -6,29 +6,9 @@ layout: page
 published: true
 ---
 
-**Chair:**
+## Resources are here to help! 
 
-Hiram Aldarondo<br>
-427 Anderson Hall<br>
-[(215) 204-1706](tel:2152041706)<br>
-[haldaron@temple.edu](mailto:haldaron@temple.edu)<br>
-
-**Undergraduate Chair:**
-
-Ronald W. Webb<br>
-Undergraduate Advisor & Instructor of Latin American Studies<br>
-817 Anderson Hall<br>
-[(215) 204-7527](tel:2152047527)<br>
-[rwebb@temple.edu](mailto:rwebb@temple.edu)<br>
-
-**Administrator:**
-
-Michelle Pugliese<br>
-429 Anderson Hall<br>
-[(215) 204-5628](tel:2152045628)<br>
-[pugliese@temple.edu](mailto:pugliese@temple.edu)<br>
-
-# Awards/Scholarships
+## Awards/Scholarships
 
 **Knudson Journalism Latin American Studies Award**: This scholarship is distributed annually via faculty nomination and is available to students interested in Latin American studies, Latin America or Hispanic culture.
 
