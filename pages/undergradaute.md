@@ -6,32 +6,27 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
-
-  <hr>
-
-  **Chair:** <br/>
-  Hiram Aldarondo <br/>
-  427 Anderson Hall <br/>
-  [(215) 204-1706](tel:2152041706) <br/>
-  [haldaron@temple.edu](mailto:haldaron@temple.edu) <br/>
-
-  <hr>
-
-  **Undergraduate Chair:** <br/>
-  Ronald W. Webb<br/>
-  Undergraduate Advisor & Instructor of Latin American Studies<br>
-  817 Anderson Hall<br/>
-  [(215) 204-7527](tel:2152047527)<br/>
-  [rwebb@temple.edu](mailto:rwebb@temple.edu)<br/>
-
-  <hr>
-
-  **Administrator:** <br/>
-  Michelle Pugliese <br/>
-  429 Anderson Hall <br/>
-  [(215) 204-5628](tel:2152045628) <br/>
-  [pugliese@temple.edu](mailto:pugliese@temple.edu) <br/>
+  **Chair:**  
+   Hiram Aldarondo  
+   427 Anderson Hall  
+   [(215) 204-0134](tel:2152040134)  
+   [haldaron@temple.edu](mailto:haldaron@temple.edu)  
+   
+   ___
+   
+   **Undergraduate Chair:**  
+   Ronald W. Webb  
+   817 Anderson Hall  
+   [(215) 204-7527](tel:2152047527)  
+   rwebb@temple.edu](mailto:rwebb@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Michelle Pugliese  
+   429 Anderson Hall   
+   [(215) 204-5628](tel:2152045628)  
+   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
 ---
 
 # An Immersive Experience
