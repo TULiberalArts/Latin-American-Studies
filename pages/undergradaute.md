@@ -18,7 +18,7 @@ sidebar-content: > #
    Ronald W. Webb  
    817 Anderson Hall  
    [(215) 204-7527](tel:2152047527)  
-   rwebb@temple.edu](mailto:rwebb@temple.edu)  
+   [rwebb@temple.edu](mailto:rwebb@temple.edu)  
    
    ___
    
