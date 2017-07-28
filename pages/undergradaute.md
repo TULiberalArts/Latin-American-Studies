@@ -37,7 +37,7 @@ Students of Latin American Studies have the opportunity to participate in the La
 
 Our students have the opportunity to study in Latin America for a semester or more. Our interdisciplinary program means that most credits taken through approved study abroad programs will apply toward graduation. Recent graduates have studied in Argentina, Brazil, Chile, the Dominican Republic, Ecuador, Guatemala, Mexico and Peru.
 
-When you are ready to apply, submit your application online at (admissions.temple.edu/apply)[http://admissions.temple.edu/apply].
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 # Academic Offerings
 
