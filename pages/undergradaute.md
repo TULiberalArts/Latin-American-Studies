@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Hiram Aldarondo  
    427 Anderson Hall  
@@ -26,7 +26,7 @@ sidebar-content: > #
    Michelle Pugliese  
    429 Anderson Hall   
    [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
+   [pugliese@temple.edu](mailto:pugliese@temple.edu)
 ---
 
 # An Immersive Experience
@@ -36,6 +36,8 @@ Students of Latin American Studies have the opportunity to participate in the La
 # Travel The World
 
 Our students have the opportunity to study in Latin America for a semester or more. Our interdisciplinary program means that most credits taken through approved study abroad programs will apply toward graduation. Recent graduates have studied in Argentina, Brazil, Chile, the Dominican Republic, Ecuador, Guatemala, Mexico and Peru.
+
+When you are ready to apply, submit your application online at (admissions.temple.edu/apply)[http://admissions.temple.edu/apply].
 
 # Academic Offerings
 
