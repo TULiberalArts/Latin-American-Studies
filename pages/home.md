@@ -1,8 +1,8 @@
 ---
 title: Home
-permalink: /
+permalink: / 
 layout: home
-description: description: >-
+description: >-
 keywords: ''
 feature: false
 feature-title: 
