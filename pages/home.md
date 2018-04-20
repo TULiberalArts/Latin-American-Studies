@@ -18,7 +18,7 @@ published: true
 
 Courses are offered in departments from every school and college and our affiliated faculty research diverse topics from development economics to immigrant healthcare, from Latin American music to colonial literature. Our students become true experts who can speak to a wide range of issues confronting Latin America: experts who can contribute proactively to development and cooperation, as well as to business and political analysis in a way that their peers with a more traditional disciplinary focus cannot.
 
-# Academic Offerings
+## Academic Offerings
 - [BA in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/ba-latin-american-studies/)
 - [Minor in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/minor-latin-american-studies/)
 
