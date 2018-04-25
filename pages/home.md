@@ -28,15 +28,15 @@ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
+    title="NEED CONTENT" 
     content=" " 
     image="" 
-    button-link=" " 
+    button-link="" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
+      title="NEED CONTENT" 
       content=" " 
       image="" 
       button-link=" " 
@@ -44,7 +44,7 @@ ___
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
+        title="NEED CONTENT" 
         content=" " 
         image="" 
         button-link=" " 
