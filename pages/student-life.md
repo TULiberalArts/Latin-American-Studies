@@ -82,6 +82,11 @@ A passport is required for traveling to Ecuador. If you do not already have a va
 
 - **NEED JOTFORM APPLICATION URL**
 
+## LASS In The News
+- National University of Costa Rica (UNA).”[General Studies Internationalization](http://www.hoyenelcampus.una.ac.cr//index.php?option=com_content&task=view&id=1766&Itemid=52).” Hoy en el Campus. 27 April 2016.
+- Wilson, Sara Curnow. “[A Semester Unlike Any Other](https://liberalarts.temple.edu/about-us/newsroom/semester-unlike-any-other).” College of Liberal Arts Newsroom. 4 April 2016.
+- Krotzer, Samantha. “[Spanish certificate programs ranked No. 1 nationally](https://news.temple.edu/news/2016-06-30/spanish-certificate-programs-ranked-number-one-nationally).” Temple Now. 30 June 2016.
+
 ## Temple Spain Spring Semester Program
 ![Spain Spring Semester Study Abroad]({{site.baseurl}}/media/resized Temple Spain Study Abroad.jpg){:.img-right}
 If you are committed to developing your Spanish language skills and understanding of Hispanic culture our semester study abroad programs offer an unparalleled opportunity for you. Our programs provide an immersive linguistic and cultural experience, combining in-class language instruction with a home stay and daily interaction with local citizens.
