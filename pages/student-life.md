@@ -109,3 +109,10 @@ Temple University in Brazil provides exceptional educational opportunities for u
 ## Books on Latin American Studies
 - [TU Press Books on Latin American and Caribbean Studies](http://www.temple.edu/tempress/latino.html)
 - [TU Press Books on Latino/a Studies](http://www.temple.edu/tempress/latino.html)
+
+## Graduate Students of Language at Temple (GSOLT)
+The purpose of Graduate Students of Language at Temple (GSOLT) is to connect students who study and are interested in language in order to form interdisciplinary networks for discussion and research. The organization organizes a conference each spring to showcase students’ research in language from a variety of viewpoints.
+
+GSOLT also promotes interdisciplinary discussion of language and conducts workshops for improving student work. Meetings are held in order to plan the spring conference, upcoming workshops and discuss guest speakers. In workshops we discuss project ideas, current projects and issues we are encountering. We also discuss theory and methods to help us progress in our individual projects and understand approaches to language from different disciplines.
+
+Sign up to join [GSOLT](https://temple.campuslabs.com/engage/organization/GSOLT)! For more information contact: [Bryce Bayer](tua90730@temple.edu) and [Katie Clarkson](tug20217@temple.edu)
