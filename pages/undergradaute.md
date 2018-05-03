@@ -2,7 +2,7 @@
 title: Undergraduate
 permalink: /undergraduate/
 layout: page
-keywords: ''
+keywords: 'BA, minor, lass, department of spanisha nd portuguese'
 description: >-
 published: true
 sidebar: true
