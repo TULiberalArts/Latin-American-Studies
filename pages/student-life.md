@@ -2,7 +2,7 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: ''
+keywords: 'study abroad, latin american studies semester, courses, application, spain, awards and scholarships, GSOLT'
 description: >-
 published: true
 sidebar: true
