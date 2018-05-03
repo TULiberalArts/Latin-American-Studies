@@ -3,7 +3,7 @@ title: Home
 permalink: / 
 layout: home3
 description: >-
-keywords: ''
+keywords: 'academic offerings, major, minor, latin american studies'
 feature: true
 feature-title: Broaden your horizon with studies of cultures, language and politics in Latin America and the Caribbean.
 feature-image: media/LAAS_hero.jpg
