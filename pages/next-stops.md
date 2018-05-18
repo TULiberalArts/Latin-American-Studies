@@ -6,11 +6,12 @@ keywords: 'careers, internships, apply, visit, transfer'
 description: >-
 published: true
 ---
-## Careers and Beyond:
+What will you do with a Latin American Studies degree from the College of Liberal Arts? As a graduate, you’ll have many options for your [career and beyond](#careers-and-beyond). Make your declaration by [visiting us](#visit) in North Philly. Then review your [transfer](#thinking-of-transferring) options and [application deadlines](#deadlines) before you [apply](#apply).
+
+## Careers and Beyond
 Internships have been available to students majoring in Latin American Studies through community organizations like Taller Puertorriqueño, Congreso de Latinos Unidos and the Latin American Economic Development Association.
 
 Many of our graduates go onto further study in graduate or law school. Potential careers include:
-
 - Anthropologist
 - Cultural officer
 - Interpreter
