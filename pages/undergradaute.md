@@ -29,6 +29,7 @@ sidebar-content: |
    [(215) 204-5628](tel:2152045628)  
    [pugliese@temple.edu](mailto:pugliese@temple.edu)
 ---
+College of Liberal Arts students are immersed in Latin American culture and languages in the classroom, but we also encourage them to go travel the world and see Latin America by studying abroad. Temple University students can earn a [bachelors of arts](#ba-in-latin-american-studies) in Latin American Studies degree or [minor](#minor-in-latin-american-studies) in Latin American Studies. Either way, they get a world-class education about one of the world’s most important regions.
 
 ## An Immersive Experience
 Students of Latin American Studies have the opportunity to participate in the Latin American Studies Semester (LASS) through the Department of Spanish & Portuguese. Students take classes only in the target language and have the opportunity to study abroad together for several weeks in a Latin American country.
