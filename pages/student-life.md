@@ -26,6 +26,7 @@ sidebar-content: |
    429 Anderson Hall     
    [haldaron@temple.edu](mailto:haldaron@temple.edu)
 ---
+The only better place to learn about Latin America than in the College of Liberal Arts might just be in Latin America itself, which is why we encourage students to [study abroad](#study-abroad). Popular study abroad locations include [Ecuador](#about-quito-ecuador), [Brazil](#brazil-afro-brazilian-culture-and-popular-brazilian-music-salvador-bahia) and Spain in either the [spring](#temple-spain-spring-semester-program) or [summer](##temple-spain-summer-program). Even back here in Philadelphia, though, there’s so much happening. See [LASS in the news](#lass-in-the-news), learn about [award and scholarship](#awards-and-scholarships) opportunities, see our [book recommendations](#books-on-latin-american-studies), and learn about our [Graduate Students of Language at Temple (GSOLT)](#graduate-students-of-language-at-temple-gsolt) organization.
 
 ## Study Abroad
 
@@ -82,11 +83,6 @@ A passport is required for traveling to Ecuador. If you do not already have a va
 
 - **NEED JOTFORM APPLICATION URL**
 
-## LASS In The News
-- National University of Costa Rica (UNA).”[General Studies Internationalization](http://www.hoyenelcampus.una.ac.cr//index.php?option=com_content&task=view&id=1766&Itemid=52).” Hoy en el Campus. 27 April 2016.
-- Wilson, Sara Curnow. “[A Semester Unlike Any Other](https://liberalarts.temple.edu/about-us/newsroom/semester-unlike-any-other).” College of Liberal Arts Newsroom. 4 April 2016.
-- Krotzer, Samantha. “[Spanish certificate programs ranked No. 1 nationally](https://news.temple.edu/news/2016-06-30/spanish-certificate-programs-ranked-number-one-nationally).” Temple Now. 30 June 2016.
-
 ## Temple Spain Spring Semester Program
 ![Spain Spring Semester Study Abroad]({{site.baseurl}}/media/resized Temple Spain Study Abroad.jpg){:.img-right}
 If you are committed to developing your Spanish language skills and understanding of Hispanic culture our semester study abroad programs offer an unparalleled opportunity for you. Our programs provide an immersive linguistic and cultural experience, combining in-class language instruction with a home stay and daily interaction with local citizens.
@@ -103,7 +99,12 @@ Our summer study abroad programs allow you to use the world as your classroom. S
 
 Temple University in Brazil provides exceptional educational opportunities for under graduate students of African-American studies, Latin American studies, Portuguese, history, music, dance, art and related disciplines to study Brazilian culture, civilization and music. For more information visit Temple Summer in Brazil **BROKEN LINK**.
 
-## Awards/Scholarships
+## LASS In The News
+- National University of Costa Rica (UNA).”[General Studies Internationalization](http://www.hoyenelcampus.una.ac.cr//index.php?option=com_content&task=view&id=1766&Itemid=52).” Hoy en el Campus. 27 April 2016.
+- Wilson, Sara Curnow. “[A Semester Unlike Any Other](https://liberalarts.temple.edu/about-us/newsroom/semester-unlike-any-other).” College of Liberal Arts Newsroom. 4 April 2016.
+- Krotzer, Samantha. “[Spanish certificate programs ranked No. 1 nationally](https://news.temple.edu/news/2016-06-30/spanish-certificate-programs-ranked-number-one-nationally).” Temple Now. 30 June 2016.
+
+## Awards and Scholarships
 **Knudson Journalism Latin American Studies Award**: This scholarship is distributed annually via faculty nomination and is available to students interested in Latin American studies, Latin America or Hispanic culture.
 
 ## Books on Latin American Studies
