@@ -1,33 +1,15 @@
 ---
-title: Undergraduate
+# global predefined variables
+layout: tla_page
 permalink: /undergraduate/
-layout: page
-keywords: 'BA, minor, lass, department of spanisha nd portuguese'
-description: >-
 published: true
+# meta-data variables
+title: Undergraduate
+description: >-
+keywords: 'BA, minor, lass, department of spanisha nd portuguese'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Hiram Aldarondo  
-   427 Anderson Hall  
-   [(215) 204-0134](tel:2152040134)  
-   [haldaron@temple.edu](mailto:haldaron@temple.edu)  
-   
-   ___
-   
-   **Undergraduate Chair:**  
-   Ronald W. Webb  
-   817 Anderson Hall  
-   [(215) 204-7527](tel:2152047527)  
-   [rwebb@temple.edu](mailto:rwebb@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)
+sidebar_content: sidebars/undergraduate.html
 ---
 College of Liberal Arts students are immersed in Latin American culture and languages in the classroom, but we also encourage them to go travel the world and see Latin America by studying abroad. Temple University students can earn a [bachelors of arts](#ba-in-latin-american-studies) in Latin American Studies degree or [minor](#minor-in-latin-american-studies) in Latin American Studies. Either way, they get a world-class education about one of the world’s most important regions.
 
