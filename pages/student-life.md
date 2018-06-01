@@ -1,30 +1,15 @@
 ---
-title: Student Life
+# global predefined variables
+layout: tla_page
 permalink: /student-life/
-layout: page
-keywords: 'study abroad, latin american studies semester, courses, application, spain, awards and scholarships, GSOLT'
-description: >-
 published: true
+# meta-data variables
+title: Student Life
+description: >-
+keywords: 'study abroad, latin american studies semester, courses, application, spain, awards and scholarships, GSOLT'
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Director, Temple in Spain Programs (Spring and Summer) :**  
-   Jaime Durán  
-   437 Anderson Hall    
-   [jduran@temple.edu](mailto:jduran@temple.edu)  
-   
-   ___
-   
-   **Study Abroad Advisor for Non-Temple Programs:**  
-   Paul D. Toth  
-   441 Anderson Hall    
-   [ptoth@temple.edu](mailto:ptoth@temple.edu)  
-   
-   ___
-   
-   **Director, Latin American Studies Semester (LASS):**  
-   Hiram Aldarondo  
-   429 Anderson Hall     
-   [haldaron@temple.edu](mailto:haldaron@temple.edu)
+sidebar_content: sidebars/student-life.html
 ---
 The only better place to learn about Latin America than in the College of Liberal Arts might just be in Latin America itself, which is why we encourage students to [study abroad](#study-abroad). Popular study abroad locations include [Ecuador](#about-quito-ecuador), [Brazil](#brazil-afro-brazilian-culture-and-popular-brazilian-music-salvador-bahia) and Spain in either the [spring](#temple-spain-spring-semester-program) or [summer](##temple-spain-summer-program). Even back here in Philadelphia, though, there’s so much happening. See [LASS in the news](#lass-in-the-news), learn about [award and scholarship](#awards-and-scholarships) opportunities, see our [book recommendations](#books-on-latin-american-studies), and learn about our [Graduate Students of Language at Temple (GSOLT)](#graduate-students-of-language-at-temple-gsolt) organization.
 
