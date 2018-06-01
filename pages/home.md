@@ -1,9 +1,14 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: / 
-layout: home3
+published: true
+# meta-data variables
+title: Home
 description: >-
 keywords: 'academic offerings, major, minor, latin american studies'
+# custom variables
+sidebar: false
 feature: true
 feature-title: Broaden your horizon with studies of cultures, language and politics in Latin America and the Caribbean.
 feature-image: media/LAAS_hero.jpg
@@ -12,8 +17,7 @@ feature-body: >-
   to learning about the politics, economics, cultures and societies of
   Latin America and the Caribbean. LAS uses this region as a framework for
   exploring thematic issues in such disciplines as anthropology, art, history, 
-  political science, Spanish and Portuguese and communication studies.
-published: true  
+  political science, Spanish and Portuguese and communication studies.  
 ---
 Latin American Studies (LASS) offers you an interdisciplinary approach to learning about the politics, economics, cultures and societies of Latin America and the Caribbean. LASS uses this region as a framework for exploring thematic issues in such disciplines as anthropology, art, history, political science, Spanish and Portuguese and communication studies. 
 
