@@ -6,6 +6,9 @@ published: true
 # meta-data variables
 title: Student Life
 description: >-
+  Study abroad in locations such as Ecuador, Brazil, and Spain through Temple University’s Latin American Studies program
+  in the college of Liberal Arts. Read up on LASS in the news, learn about awards and scholarships, and our Graduate Students 
+  of Language at Temple (GSOLT) organization.
 keywords: 'study abroad, latin american studies semester, courses, application, spain, awards and scholarships, GSOLT'
 # custom variables
 sidebar: true
