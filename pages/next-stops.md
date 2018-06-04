@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Next Stops
 description: >-
+  Learn about your career and beyond with a degree in Latin American Studies from the College of Liberal Arts
+  at Temple University. Visit us, learn about transfer options, application deadlines, and how to apply!
 keywords: 'careers, internships, apply, visit, transfer'
 # custom variables
 sidebar: false
