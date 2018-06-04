@@ -6,6 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
+  Explore topics such as immigrant healthcare, Latin American music, and colonial literature; view academic offerings 
+  and major or minor in Latin American Studies at Temple University in the College of Liberal Arts.
 keywords: 'academic offerings, major, minor, latin american studies'
 # custom variables
 sidebar: false
