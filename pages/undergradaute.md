@@ -6,7 +6,9 @@ published: true
 # meta-data variables
 title: Undergraduate
 description: >-
-keywords: 'BA, minor, lass, department of spanisha nd portuguese'
+  Earn your BA or a minor in Latin American Studies through the department of 
+  Spanish and Portuguese in the College of Liberal Arts at Temple University. 
+keywords: 'BA, minor, lass, department of spanish and portuguese'
 # custom variables
 sidebar: true
 sidebar_content: sidebars/undergraduate.html
