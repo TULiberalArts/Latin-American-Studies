@@ -96,8 +96,8 @@ Temple University in Brazil provides exceptional educational opportunities for u
 **Knudson Journalism Latin American Studies Award**: This scholarship is distributed annually via faculty nomination and is available to students interested in Latin American studies, Latin America or Hispanic culture.
 
 ## Books on Latin American Studies
-- [TU Press Books on Latin American and Caribbean Studies](http://www.temple.edu/tempress/latino.html)
-- [TU Press Books on Latino/a Studies](http://www.temple.edu/tempress/latino.html)
+- TU Press Books on Latin American and Caribbean Studies- BROKEN LINK http://www.temple.edu/tempress/latino.html
+- TU Press Books on Latino/a Studies- BROKEN LINK http://www.temple.edu/tempress/latino.html
 
 ## Graduate Students of Language at Temple (GSOLT)
 The purpose of Graduate Students of Language at Temple (GSOLT) is to connect students who study and are interested in language in order to form interdisciplinary networks for discussion and research. The organization organizes a conference each spring to showcase students’ research in language from a variety of viewpoints.
