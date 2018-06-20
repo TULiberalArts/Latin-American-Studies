@@ -5,6 +5,8 @@ title: Latin American Studies
 baseurl: /latin-american-studies
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/latin-american-studies
 
 
 # Program Information
