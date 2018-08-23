@@ -30,29 +30,3 @@ Courses are offered in departments from every Temple University school and colle
 - [Minor in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/minor-latin-american-studies/)
 
 ___
-
-<div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
-    title="NEED CONTENT"
-    content=" "
-    image=""
-    button-link=""
-    button-text="Learn More" %}
-  </div>
-  <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
-      title="NEED CONTENT"
-      content=" "
-      image=""
-      button-link=" "
-      button-text="Learn More" %}
-    </div>
-    <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
-        title="NEED CONTENT"
-        content=" "
-        image=""
-        button-link=" "
-        button-text="Learn More" %}
-      </div>
-</div>

@@ -42,7 +42,7 @@ The College of Liberal Arts offers a great deal of flexibility to help you accom
 ## Apply
 When you are ready to apply, submit your application online at [temple.edu/apply](http://admissions.temple.edu/apply)
 
-# Deadlines
+## Deadlines
 
 - **February 1**: Freshman Application Deadline for Fall Semester
 - **March 1**: FAFSA Financial Aid Application Deadline
