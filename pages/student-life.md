@@ -7,7 +7,7 @@ published: true
 title: Student Life
 description: >-
   Study abroad in locations such as Ecuador, Brazil, and Spain through Temple University’s Latin American Studies program
-  in the college of Liberal Arts. Read up on LASS in the news, learn about awards and scholarships, and our Graduate Students 
+  in the college of Liberal Arts. Read up on LASS in the news, learn about awards and scholarships, and our Graduate Students
   of Language at Temple (GSOLT) organization.
 keywords: 'study abroad, latin american studies semester, courses, application, spain, awards and scholarships, GSOLT'
 # custom variables
@@ -16,12 +16,18 @@ sidebar_content: sidebars/student-life.html
 ---
 The only better place to learn about Latin America than in the College of Liberal Arts might just be in Latin America itself, which is why we encourage students to [study abroad](#study-abroad). Popular study abroad locations include [Ecuador](#about-quito-ecuador), [Brazil](#brazil-afro-brazilian-culture-and-popular-brazilian-music-salvador-bahia) and Spain in either the [spring](#temple-spain-spring-semester-program) or [summer](##temple-spain-summer-program). Even back here in Philadelphia, though, there’s so much happening. See [LASS in the news](#lass-in-the-news), learn about [award and scholarship](#awards-and-scholarships) opportunities, see our [book recommendations](#books-on-latin-american-studies), and learn about our [Graduate Students of Language at Temple (GSOLT)](#graduate-students-of-language-at-temple-gsolt) organization.
 
+___
+
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NIBBE9gBkUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+___
+
 ## Study Abroad
 
 ## Latin American Studies Semester (LASS)
 The Latin American Studies Semester (LASS) has been offered every spring semester since 1973. This unique language immersion program is designed to provide an intensive experience in the study of the Spanish language in combination with an interdisciplinary study of life and contemporary issues in Latin America. The prerequisite for participation in LASS is one semester of university-level Spanish or the equivalent (students with more advanced levels of course background are encouraged to participate in the program). LASS integrates several courses, totaling 17-semester hours credit, and must be taken as a package. All courses are taught in Spanish from the first day of class on Temple’s main campus. An integral part of the LASS program is a three-week trip to Quito, Ecuador in March, during which students are placed in local homes where the only language of communication is Spanish. While in Ecuador, students attend courses at the Andean Center for Latin American Studies. Native Spanish-speaking professors teach all courses in Ecuador. All participants in the program may expect to achieve marked improvement in Spanish fluency in only one semester.
-
-- **NEED JOTFORM APPLICATION URL**
 
 ### Courses
 LASS courses combine the learning of the Spanish language with the study of the diverse cultures of Latin America. The program is an integration of several courses, totaling 17-semester hours credit, and must be taken as a package. Owing to both the credit-hour load and the semester’s objective: immersion in Spanish and Latin American Studies, no other courses may be taken. Students register for the following courses:
@@ -69,8 +75,6 @@ To be eligible, applicants must:
 
 A passport is required for traveling to Ecuador. If you do not already have a valid passport, you should apply for one immediately. All students will be asked to provide their passport information the first week of December.  No visa is necessary for US citizens.
 
-- **NEED JOTFORM APPLICATION URL**
-
 ## Temple Spain Spring Semester Program
 ![Spain Spring Semester Study Abroad]({{site.baseurl}}/media/resized Temple Spain Study Abroad.jpg){:.img-right}
 If you are committed to developing your Spanish language skills and understanding of Hispanic culture our semester study abroad programs offer an unparalleled opportunity for you. Our programs provide an immersive linguistic and cultural experience, combining in-class language instruction with a home stay and daily interaction with local citizens.
@@ -85,7 +89,7 @@ The Temple in Spain summer program is based at the University of Oviedo in the p
 ![Brazil Study Abroad]({{site.baseurl}}/media/resized Study Abroad Brazil.jpg){:.img-right}
 Our summer study abroad programs allow you to use the world as your classroom. Students choose to study abroad during the summer for a variety of reasons. Many have academic requirements that do not allow them to spend an entire semester abroad. Some students want to improve their language skills, while others seek to experience daily life in another country. Many students participate in short-term summer programs early in their college education, and then spend a semester or year abroad as juniors or seniors.
 
-Temple University in Brazil provides exceptional educational opportunities for under graduate students of African-American studies, Latin American studies, Portuguese, history, music, dance, art and related disciplines to study Brazilian culture, civilization and music. For more information visit Temple Summer in Brazil **BROKEN LINK**.
+Temple University in Brazil provides exceptional educational opportunities for under graduate students of African-American studies, Latin American studies, Portuguese, history, music, dance, art and related disciplines to study Brazilian culture, civilization and music. For more information visit Temple Summer in Brazil
 
 ## LASS In The News
 - National University of Costa Rica (UNA).”[General Studies Internationalization](http://www.hoyenelcampus.una.ac.cr//index.php?option=com_content&task=view&id=1766&Itemid=52).” Hoy en el Campus. 27 April 2016.
@@ -98,10 +102,3 @@ Temple University in Brazil provides exceptional educational opportunities for u
 ## Books on Latin American Studies
 - TU Press Books on Latin American and Caribbean Studies- BROKEN LINK http://www.temple.edu/tempress/latino.html
 - TU Press Books on Latino/a Studies- BROKEN LINK http://www.temple.edu/tempress/latino.html
-
-## Graduate Students of Language at Temple (GSOLT)
-The purpose of Graduate Students of Language at Temple (GSOLT) is to connect students who study and are interested in language in order to form interdisciplinary networks for discussion and research. The organization organizes a conference each spring to showcase students’ research in language from a variety of viewpoints.
-
-GSOLT also promotes interdisciplinary discussion of language and conducts workshops for improving student work. Meetings are held in order to plan the spring conference, upcoming workshops and discuss guest speakers. In workshops we discuss project ideas, current projects and issues we are encountering. We also discuss theory and methods to help us progress in our individual projects and understand approaches to language from different disciplines.
-
-Sign up to join [GSOLT](https://temple.campuslabs.com/engage/organization/GSOLT)! For more information contact: [Bryce Bayer](mailto:tua90730@temple.edu) and [Katie Clarkson](mailto:tug20217@temple.edu)
