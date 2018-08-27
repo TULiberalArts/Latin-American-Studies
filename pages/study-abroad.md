@@ -76,13 +76,3 @@ To be eligible, applicants must:
 - Students will be selected mainly on the basis of their intellectual resolve and emotional maturity. Successful candidates are usually notified within three weeks of receiving a completed application.
 
 A passport is required for traveling to Ecuador. If you do not already have a valid passport, you should apply for one immediately. All students will be asked to provide their passport information the first week of December. No visa is necessary for U.S. citizens.
-
-## Temple Spain Spring Semester Program
-![Spain Spring Semester Study Abroad]({{site.baseurl}}/media/resized Temple Spain Study Abroad.jpg){:.img-right}
-Are you committed to developing your Spanish language skills and understanding of Hispanic culture? The College of Liberal Arts’ (CLA) semester study abroad programs offer an unparalleled opportunity for you. Our programs provide an immersive linguistic and cultural experience, combining in-class language instruction with a home stay and daily interaction with local citizens.
-
-CLA’s spring semester program in Spain was developed in 2008 in response to the success of its existing summer session in Oviedo. Based at the University of Oviedo, the semester program is designed for students who are committed to furthering their Spanish language skills and understanding of Spanish culture. For more information visit [Temple in Spain Spring Semester](http://studyabroad.temple.edu/sites/temple-in-spain-spring-semester).
-
-![Brazil Study Abroad]({{site.baseurl}}/media/resized Temple Spain Summer Program.jpg){:.img-right}
-## Temple Spain Summer Program
-The Temple in Spain summer program is based at the University of Oviedo in the province of Asturias, a beautiful region of ocean, mountains and Roman ruins in northwest Spain. For more information visit [Temple in Spain Summer Session](http://studyabroad.temple.edu/sites/temple-in-spain-summer).
