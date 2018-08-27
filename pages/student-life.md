@@ -14,86 +14,51 @@ keywords: 'study abroad, latin american studies semester, courses, application, 
 sidebar: true
 sidebar_content: sidebars/student-life.html
 ---
-Spanish degree and Portuguese course students have many exciting study abroad opportunities. Don’t restrict your Portuguese or Spanish education to just the classroom—get out into the Spanish-speaking world! Considering enrolling in the [Latin American Studies Semester](#latin-american-studies-semester-lass); studying abroad in [Ecuador](#about-quito-ecuador), or in Spain during the [spring](#temple-spain-spring-semester-program) or [summer](#temple-spain-summer-semester-program). Even back here in Philadelphia, though, there’s so much happening. See [LASS in the news](#lass-in-the-news), learn about [award and scholarship](#awards-and-scholarships) opportunities, see our [book recommendations](#books-on-latin-american-studies), and learn about our [Graduate Students of Language at Temple (GSOLT)](#graduate-students-of-language-at-temple-gsolt) organization.
+Spanish and Portuguese aren’t restricted to just Latin America, Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? Start an internship; apply for [awards and scholarships](#awards-and-scholarships); join the [Club de Español](#club-de-español) or the [Graduate Students of Language at Temple](#graduate-students-of-language-at-temple-gsolt).
+
+## Internships
+The Department of Spanish and Portuguese maintains relationships with a variety of organizations throughout Philadelphia, offering students ample volunteer, community service, research and internship opportunities. Students gain real-world language and work experience through this experiential learning, increasing their skills and confidence.
+
+Throughout the academic year, students of any level may volunteer with educational and neighborhood organizations, such as mentoring primary and high school students, teaching seniors or contributing to the greening of the city infrastructure. In the summer, advanced students may receive credit by taking an internship course for which they invest significant time in an organization. Students have been engaged in service opportunities in journalism, social services, law, heath care, educational development and immigrant rights. By using their language skills to fulfill their responsibilities, students maximize their classroom learning and attain poise in a professional setting.
 
 ___
 
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/NIBBE9gBkUs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
+## Awards and Scholarships
+Exceptional students may apply to become members of the prestigious Spanish Honor Society: Sigma Delta Pi. A graduating senior is awarded the Sigma Delta Pi prize each year. Upper-class students can also apply for the Kristina Joanne Chelius award. Established in 2009 by Thomas and Joanne Chelius in memory of their daughter Kristina, CLA ’91, this award is given to outstanding junior or senior students majoring in Spanish who have financial need.
 
-___
+**Knudson Journalism Latin American Studies Award**: This scholarship is distributed annually via faculty nomination and is available to students interested in Latin American studies, Latin America or Hispanic culture.
 
-## Program Overview
-The Latin American Studies Semester has been offered every spring semester since 1973. This unique language immersion program provides you with an intensive experience studying the Spanish language in combination with an interdisciplinary study of life and contemporary issues in Latin America. 
+For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4579&field_awards_academics_class_value=All) page.
 
-The prerequisite for participation in LASS is one semester of university-level Spanish or the equivalent (students with more advanced levels of course background are encouraged to participate in the program). LASS integrates several courses, totaling 17-semester-hour credits, and must be taken as a package. All courses are taught in Spanish from the first day of class on Temple’s main campus. 
-An integral part of the LASS program is a three-week trip to Quito, Ecuador in March, during which students are placed in local homes where the only language of communication is Spanish. While in Ecuador, students attend courses at the Andean Center for Latin American Studies. Native Spanish-speaking professors teach all courses in Ecuador. All participants in the program may expect to achieve marked improvement in Spanish fluency in only one semester.
+## Club de Español
+The Spanish Club is a student organization, and its principal goal is to promote the practice of speaking Spanish. One way we achieve this goal is through conversation tables, which allow you to practice your conversation skills in a relaxed environment once a week. We also invite you to join us in celebrating the Hispanic culture all year round with different activities. The Spanish Club meets weekly throughout the semester on Mondays from 4-5 p.m. in 422 Anderson Hall.
 
-- [LASS Application Form](https://form.jotform.com/82255597172161)
+Everyone is welcome to join the Spanish Club, and you’re still able to participate in our events even if you don’t become a member. Stop by our meetings and bring friends!
+- Club Coordinator: [Norma Corrales Martin](mailto:ncm@temple.edu)
 
-### Courses
-LASS courses combine Spanish language teachings studies of Latin America’s diverse cultures. The program is an integration of several courses, totaling 17-semester-hour credits, and must be taken as a package. Owing to both the credit-hour load and the semester’s objective (immersion in Spanish and Latin American Studies) no other courses may be taken simultaneously. Students register for the following courses:
+## Graduate Students of Language at Temple (GSOLT)
+Graduate Students of Language at Temple (GSOLT) connects students who study and are interested in language and helps them form interdisciplinary networks for discussion and research. An annual spring conference showcases students’ research in language from a variety of viewpoints.
 
-- [Spanish 2098: Intensive Practice/Four Skills](http://bulletin.temple.edu/search/?P=SPAN%202098) – 9 credits.
-- [Sociology 2163: Area Studies: Latin American Development](http://bulletin.temple.edu/search/?P=SOC%202163) – 3 credits.
-- [Spanish 3204: Latin America Through Film](http://bulletin.temple.edu/search/?P=SPAN%203204) – 3 credits.
-- [Latin American Studies 2220: LASS Seminar](http://bulletin.temple.edu/search/?P=LAS%202220) – 2 credits.
+GSOLT also promotes interdisciplinary discussion of language and conducts workshops for improving student work. Meetings are held to plan the spring conference and upcoming workshops and to discuss guest speakers. During workshops, we discuss project ideas, current projects and issues we are encountering. We also discuss theory and methods to help us progress in our individual projects and understand approaches to language from different disciplines.
 
-Morning sessions, held from 9a.m. to 12 p.m. on Mondays, Wednesdays and Fridays, offer Spanish language instruction and conversation practice at intermediate and advanced levels guided by native or near-native speakers. Morning sessions, held from 9:30 a.m. to 10:50 a.m. and from 11 a.m. to 12:20 p.m. on Tuesdays and Thursdays, focus on Latin American culture, history and economic development. A LASS Seminar held on Tuesdays and Thursdays from 1:30 p.m. to 3:10 p.m. highlights a series of topics in Latin American and Latino studies and includes films and presentations by guest speakers. 
+Sign up to join [GSOLT](https://temple.campuslabs.com/engage/organization/GSOLT)! For more information contact: [Bryce Bayer](tua90730@temple.edu) and [Katie Clarkson](tug20217@temple.edu)
 
-## About Quito, Ecuador
-High in the Andean mountain range, you’ll find the capital city of Quito. Quito combines modern infrastructure with centuries of history and culture, making it an ideal study abroad destination.
+## Society of Spanish and Spanish-American Studies
+The Society of Spanish and Spanish American Studies (SSSAS) promotes bibliographical, critical and pedagogical research in Spanish and Spanish American studies by publishing works of particular merit in these areas. On occasion, the Society also publishes creative works. SSSAS is a nonprofit educational organization.
 
-The metro area fills the space between lush mountains (and a couple of volcanoes), creating a gorgeous setting for living and exploring. Quito provides many options for learning and entertainment, and students are encouraged to explore their interests–and develop new ones. This is a wonderful place for music, architecture, hiking, food, dancing and sports.
+- For any correspondence regarding subscriptions and article submissions please contact the editors at [sssas@temple.edu](mailto:sssas@temple.edu)
+- Updated information about the journal’s most recent issues may be found at [www.sssasalec.com](http://sssasalec.blogspot.com/).
 
-### Andean Center for Latin American Studies
-The Andean Center for Latin American Studies (ACLAS) will be your home campus when you study abroad in Ecuador. For over 25 years, ACLAS has hosted U.S. university study abroad programs and supported students through intensive Spanish language learning, homestay family experiences and travel throughout Ecuador.
-
-### Accommodations
-Living with host families in Quito gives students a truly immersive experience. These local families host one LASS student each for maximum cultural and language engagement. Students routinely rate the homestay experience as their favorite part of studying abroad.
-
-All housing offers glimpses of everyday life, with easy access to ACLAS and to city amenities. Homestays include three meals a day (except excursion days) and laundry. Every family has been carefully selected by ACLAS staff in order to ensure a comfortable, enjoyable living situation.
-
-### Cost
-The 17-semester-hour credits program includes an additional fee of $1,000. Please note this fee is subject to change. The fee is incorporated into the tuition for one of the LASS courses and is paid as part of the student spring registration. The fee covers: housing, meals, courses and trips in Ecuador. Students are responsible for separately purchasing their airline tickets and making their own arrangements.
-
-### Calendar
-LASS Orientation – Wednesday, October 3rd, 2018 at 4pm 422 Anderson Hall
-
-Travel Dates for Spring 2019:
-- Departure – Wednesday, February 27, 2019
-- Return – Tuesday, March 19, 2019
-
-### Eligibility And Application Process
-To be eligible, applicants must:
-
-- Have successfully completed 1001 or the equivalent (a minimum of one semester of university-level Spanish), although preference will be given to students that have completed 1002.
-- Possess a minimum 2.8 cumulative GPA on a 4.0 scale from all colleges/universities attended, although preference will be given to GPAs above 3.0.
-- Be enrolled as a full-time matriculated student at the time of application.
-- Not be on academic and/or disciplinary probation or warning.
-- Students will be selected mainly on the basis of their intellectual resolve and emotional maturity. Successful candidates are usually notified within three weeks of receiving a completed application.
-
-A passport is required for traveling to Ecuador. If you do not already have a valid passport, you should apply for one immediately. All students will be asked to provide their passport information the first week of December. No visa is necessary for U.S. citizens.
-
-## Temple Spain Spring Semester Program
-![Spain Spring Semester Study Abroad]({{site.baseurl}}/media/resized Temple Spain Study Abroad.jpg){:.img-right}
-Are you committed to developing your Spanish language skills and understanding of Hispanic culture? The College of Liberal Arts’ (CLA) semester study abroad programs offer an unparalleled opportunity for you. Our programs provide an immersive linguistic and cultural experience, combining in-class language instruction with a home stay and daily interaction with local citizens.
-
-CLA’s spring semester program in Spain was developed in 2008 in response to the success of its existing summer session in Oviedo. Based at the University of Oviedo, the semester program is designed for students who are committed to furthering their Spanish language skills and understanding of Spanish culture. For more information visit [Temple in Spain Spring Semester](http://studyabroad.temple.edu/sites/temple-in-spain-spring-semester).
-
-![Brazil Study Abroad]({{site.baseurl}}/media/resized Temple Spain Summer Program.jpg){:.img-right}
-## Temple Spain Summer Program
-The Temple in Spain summer program is based at the University of Oviedo in the province of Asturias, a beautiful region of ocean, mountains and Roman ruins in northwest Spain. For more information visit [Temple in Spain Summer Session](http://studyabroad.temple.edu/sites/temple-in-spain-summer).
+## Scholarly Journals
+- _Anales de la literatura española contemporánea_ (ISSN: 0272-1635): ALEC publishes scholarly articles studying all aspects of twentieth and twenty-first century Spanish literature (from “modernism” and the so-called generation of 1898).
+- _Journal of Spanish Studies: Twentieth Century_ (ISSN: 0092-1827).
+- Siglo XX/ 20th Century (ISSN: 0740-946X
 
 ## LASS In The News
 - National University of Costa Rica (UNA).”[General Studies Internationalization](http://www.hoyenelcampus.una.ac.cr//index.php?option=com_content&task=view&id=1766&Itemid=52).” Hoy en el Campus. 27 April 2016.
 - Wilson, Sara Curnow. “[A Semester Unlike Any Other](https://liberalarts.temple.edu/about-us/newsroom/semester-unlike-any-other).” College of Liberal Arts Newsroom. 4 April 2016.
 - Krotzer, Samantha. “[Spanish certificate programs ranked No. 1 nationally](https://news.temple.edu/news/2016-06-30/spanish-certificate-programs-ranked-number-one-nationally).” Temple Now. 30 June 2016.
 
-## Awards and Scholarships
-**Knudson Journalism Latin American Studies Award**: This scholarship is distributed annually via faculty nomination and is available to students interested in Latin American studies, Latin America or Hispanic culture.
-
 ## Books on Latin American Studies
-- TU Press Books on Latin American and Caribbean Studies- BROKEN LINK http://www.temple.edu/tempress/latino.html
-- TU Press Books on Latino/a Studies- BROKEN LINK http://www.temple.edu/tempress/latino.html
+- [TU Press Books on Latin American and Caribbean Studies](http://tupress.temple.edu/)
+- [TU Press Books on Latino/a Studies](http://tupress.temple.edu/)
