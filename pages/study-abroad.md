@@ -4,7 +4,7 @@ layout: tla_page
 permalink: /study-abroad/
 published: true
 # meta-data variables
-title: Syudy Abroad
+title: Study Abroad
 description: >-
   Study abroad in locations such as Ecuador, Brazil, and Spain through Temple University’s Latin American Studies program
   in the college of Liberal Arts. Read up on LASS in the news, learn about awards and scholarships, and our Graduate Students
