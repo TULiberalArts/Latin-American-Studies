@@ -43,17 +43,6 @@ GSOLT also promotes interdisciplinary discussion of language and conducts worksh
 
 Sign up to join [GSOLT](https://temple.campuslabs.com/engage/organization/GSOLT)! For more information contact: [Bryce Bayer](tua90730@temple.edu) and [Katie Clarkson](tug20217@temple.edu)
 
-## Society of Spanish and Spanish-American Studies
-The Society of Spanish and Spanish American Studies (SSSAS) promotes bibliographical, critical and pedagogical research in Spanish and Spanish American studies by publishing works of particular merit in these areas. On occasion, the Society also publishes creative works. SSSAS is a nonprofit educational organization.
-
-- For any correspondence regarding subscriptions and article submissions please contact the editors at [sssas@temple.edu](mailto:sssas@temple.edu)
-- Updated information about the journal’s most recent issues may be found at [www.sssasalec.com](http://sssasalec.blogspot.com/).
-
-## Scholarly Journals
-- _Anales de la literatura española contemporánea_ (ISSN: 0272-1635): ALEC publishes scholarly articles studying all aspects of twentieth and twenty-first century Spanish literature (from “modernism” and the so-called generation of 1898).
-- _Journal of Spanish Studies: Twentieth Century_ (ISSN: 0092-1827).
-- Siglo XX/ 20th Century (ISSN: 0740-946X
-
 ## LASS In The News
 - National University of Costa Rica (UNA).”[General Studies Internationalization](http://www.hoyenelcampus.una.ac.cr//index.php?option=com_content&task=view&id=1766&Itemid=52).” Hoy en el Campus. 27 April 2016.
 - Wilson, Sara Curnow. “[A Semester Unlike Any Other](https://liberalarts.temple.edu/about-us/newsroom/semester-unlike-any-other).” College of Liberal Arts Newsroom. 4 April 2016.
