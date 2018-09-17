@@ -13,7 +13,7 @@ keywords: 'academic offerings, major, minor, latin american studies'
 promotion-table: true
 sidebar: false
 feature: true
-feature-image: media/LAAS_hero.jp
+feature-image: media/LAAS_hero.jpg
 ---
 ## Broaden your horizon with studies of cultures, language and politics in Latin America and the Caribbean.
 Latin American Studies (LAS) offers an interdisciplinary approach to learning about the politics, economics, cultures and societies of Latin America and the Caribbean. LAS uses this region as a framework for exploring thematic issues in such disciplines as anthropology, art, history, political science, Spanish and Portuguese and communication studies.  
