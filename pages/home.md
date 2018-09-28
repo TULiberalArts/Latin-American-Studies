@@ -10,7 +10,7 @@ description: >-
   and major or minor in Latin American Studies at Temple University in the College of Liberal Arts.
 keywords: 'academic offerings, major, minor, latin american studies'
 # custom variables
-promotion-table: true
+promotion-table: 
 sidebar: false
 feature: true
 feature-image: media/LAAS_hero.jpg
