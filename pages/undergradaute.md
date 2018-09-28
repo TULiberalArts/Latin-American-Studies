@@ -10,8 +10,8 @@ description: >-
   Spanish and Portuguese in the College of Liberal Arts at Temple University. 
 keywords: 'BA, minor, lass, department of spanish and portuguese'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html
+
+sidebar: sidebars/undergraduate.html
 ---
 College of Liberal Arts students are immersed in Latin American culture and languages in the classroom, but we also encourage them to go travel the world and see Latin America by studying abroad. Temple University students can earn a [bachelors of arts](#ba-in-latin-american-studies) in Latin American Studies degree or [minor](#minor-in-latin-american-studies) in Latin American Studies. Either way, they get a world-class education about one of the world’s most important regions.
 

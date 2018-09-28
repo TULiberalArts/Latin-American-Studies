@@ -11,8 +11,8 @@ description: >-
   of Language at Temple (GSOLT) organization.
 keywords: 'study abroad, latin american studies semester, courses, application, spain, awards and scholarships, GSOLT'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/student-life.html
+
+sidebar: sidebars/student-life.html
 ---
 Spanish and Portuguese aren’t restricted to just Latin America, Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? Start an internship; apply for [awards and scholarships](#awards-and-scholarships); join the [Club de Español](#club-de-español) or the [Graduate Students of Language at Temple](#graduate-students-of-language-at-temple-gsolt).
 

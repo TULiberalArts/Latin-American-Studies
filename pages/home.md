@@ -11,7 +11,7 @@ description: >-
 keywords: 'academic offerings, major, minor, latin american studies'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-image: media/LAAS_hero.jpg
 ---

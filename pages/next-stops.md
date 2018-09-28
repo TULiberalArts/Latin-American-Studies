@@ -10,7 +10,7 @@ description: >-
   at Temple University. Visit us, learn about transfer options, application deadlines, and how to apply!
 keywords: 'careers, internships, apply, visit, transfer'
 # custom variables
-sidebar: false
+
 ---
 What will you do with a Latin American Studies degree from the College of Liberal Arts? As a graduate, you’ll have many options for your [career and beyond](#careers-and-beyond). Make your declaration by [visiting us](#visit) in North Philly. Then review your [transfer](#thinking-of-transferring) options and [application deadlines](#deadlines) before you [apply](#apply).
 
