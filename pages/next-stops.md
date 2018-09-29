@@ -10,7 +10,6 @@ description: >-
   at Temple University. Visit us, learn about transfer options, application deadlines, and how to apply!
 keywords: 'careers, internships, apply, visit, transfer'
 # custom variables
-sidebar: false
 ---
 What will you do with a Latin American Studies degree from the College of Liberal Arts? As a graduate, you’ll have many options for your [career and beyond](#careers-and-beyond). Make your declaration by [visiting us](#visit) in North Philly. Then review your [transfer](#thinking-of-transferring) options and [application deadlines](#deadlines) before you [apply](#apply).
 
@@ -34,11 +33,11 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 - [Amy Contant](https://liberalarts.temple.edu/news/alumni-spotlight-amy-contant)<br/>
   Bilingual Speech Language Pathologist at Holyoke Medical Center<br/>
   B.A.in Spanish: Language, Literature and Linguistics in 2013<br/>
-   
+
 - [Amanda Orme](#https://liberalarts.temple.edu/news/alumni-spotlight-amanda-orme)<br/>
   Global Logistics Specialist at Samuel Shapiro & Company<br/>
   B.A.in Spanish in 2014<br/>
-   
+
 - [Brendan Conlin](https://liberalarts.temple.edu/news/alumni-spotlight-brendan-conlin)<br/>
   Vice President of Education and Workforce Services at Congreso de Latinos Unidos, Inc.<br/>
   B.A.in Spanish in 2007<br/>
@@ -46,12 +45,12 @@ So many of our distinguished alumni have gone on to great accomplishments. The s
 - [Alexandra Forcucci](https://liberalarts.temple.edu/news/alumni-spotlight-alexandra-forcucci)<br/>
   Commercial Property Underwriting Analyst at AIG’s Global Headquarters<br/>
   B.A.in Spanish in 2015<br/>
-  
+
 - Eric Stephenson<br/>
   Lead at Sarona Asset Management<br/>
   Investment Committee Chairman for the Cordes Foundation<br/>
   B.B.A and Certificate in Business; Spanish and Latin American Studies<br/>
-  
+
 ___  
 
 ## Make Your Declaration

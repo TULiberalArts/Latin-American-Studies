@@ -9,5 +9,4 @@ description: >-
   Meet our Latin American Studies faculty in the department of Spanish and Portuguese in the College of Liberal Arts at Temple University!
 keywords: 'faculty, spanish, portuguese'
 # custom variables
-sidebar: false
 ---
