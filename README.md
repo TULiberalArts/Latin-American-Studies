@@ -7,7 +7,7 @@ Latin American Studies is statically generated with [Jekyll](https://jekyllrb.co
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/latin-american-studies/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/latin-american-studies/ |
 
 ## Content Structure
 
