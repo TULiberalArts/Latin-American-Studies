@@ -46,6 +46,9 @@ Latin American Studies also offers three interdisciplinary certificates in tande
 - [Latin American Studies Semester Certificate and Program](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-latin-american-studies/)
 
 ## Coursework
+
+<div class="row">
+<div class="col m12 l8">
 <div class="col m12 l4"><br>
   <div class="course-box">
     <b>Popular courses:</b>
@@ -56,9 +59,10 @@ Latin American Studies also offers three interdisciplinary certificates in tande
     <li><a href="https://bulletin.temple.edu/search/?P=ARTH%202765" title="Revolution and Beyond: Modern and Contemporary Art in Latin America">Revolution and Beyond: Modern and Contemporary Art in Latin America</a></li>
     <li><a href="https://bulletin.temple.edu/search/?P=POLS%202231" title="Comparative Political Systems in Latin America">Comparative Political Systems in Latin America</a></li>
     <li><a href="https://bulletin.temple.edu/search/?P=REL%203702" title="African Religions and New World Culture">African Religions and New World Culture</a></li>
-    <li><a href="https://bulletin.temple.edu/search/?P=PORT%204000" title="Literature and Revolution">Literature and Revolution</a></li>  
+    <li><a href="https://bulletin.temple.edu/search/?P=PORT%204000" title="Literature and Revolution">Literature and Revolution</a></li> 
     </ul>
     </div>
+</div>
 </div>
 </div>
 
