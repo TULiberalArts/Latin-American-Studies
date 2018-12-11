@@ -10,4 +10,5 @@ description: >-
 keywords: 'faculty, spanish, portuguese'
 # custom variables
 faculty: profiles/faculty.html
+affiliated: profiles/affiliated.html
 ---
