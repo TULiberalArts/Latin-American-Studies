@@ -45,6 +45,42 @@ Latin American Studies also offers three interdisciplinary certificates in tande
 - [Latino Studies and Spanish for the Health and Human Services Professions](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish-latino-studies-health-human-services-professions/)
 - [Latin American Studies Semester Certificate and Program](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-latin-american-studies/)
 
+## Coursework
+<div class="col m12 l4"><br>
+  <div class="course-box">
+    <b>Popular courses:</b>
+    <ul>
+    <li><a href="https://bulletin.temple.edu/search/?P=LAS%201001" title="Perspectives on Latin America">Perspectives on Latin America</a></li>
+    <li><a href="https://bulletin.temple.edu/search/?P=SPAN%204152" title="US Latino/a Studies">US Latino/a Studies</a></li>
+    <li><a href="https://bulletin.temple.edu/search/?P=LAS%200854" title="Latino Immigration">Latino Immigration</a></li>
+    <li><a href="https://bulletin.temple.edu/search/?P=ARTH%202765" title="Revolution and Beyond: Modern and Contemporary Art in Latin America">Revolution and Beyond: Modern and Contemporary Art in Latin America</a></li>
+    <li><a href="https://bulletin.temple.edu/search/?P=POLS%202231" title="Comparative Political Systems in Latin America">Comparative Political Systems in Latin America</a></li>
+    <li><a href="https://bulletin.temple.edu/search/?P=REL%203702" title="African Religions and New World Culture">African Religions and New World Culture</a></li>
+    <li><a href="https://bulletin.temple.edu/search/?P=PORT%204000" title="Literature and Revolution">Literature and Revolution</a></li>  
+    </ul>
+    </div>
+</div>
+</div>
+
+Students are required to take eight LAS elective courses in subjects with a Latin American emphasis (1000-4999). Majors must take a minimum of two writing-intensive courses. In addition, students must take the following:
+- LAS 4097 Latin American Studies Capstone Seminar. A writing-intensive senior capstone research seminar brings it all together, with a research paper of your choice on a topic relevant to your chosen thematic track.
+- 1001, Perspectives on Latin America.  A gateway course that provides an interdisciplinary examination of social, political, historical, and artistic change in Latin American societies.
+
+And one of the following:
+- LAS 2097, Latin American Studies Writing Seminar I
+- LAS 2098, The Legacy of Mesoamerica 
+- LAS 4698, Revolutionary Mexico
+
+Students majoring or minoring in Latin American Studies:
+- Study the cultures, societies, art, media, music, film, literature, history, politics, religion, and foreign relations of Latin America from a multidisciplinary perspective.
+- Gain in-depth understanding of the growing Latino population in the United States.
+- Analyze economic development, U.S.-Latin American foreign relations, and underdevelopment from a comparative and global perspective.
+- Acquire up-to-date knowledge and skills directly concerned with the Americas from a variety of methodological perspectives.
+- Improve, elevate, and refine their writing and critical thinking skills.
+- Combine training in Spanish and/or Portuguese with the lived experience of speakers of these languages.
+- Enjoy world-class instruction from leading researchers and teachers.
+- Often study abroad to prepare for their careers.  
+
 [Course Catalog](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-and-Portuguese-Course-Catalog-Fall-2016.pdf)
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
