@@ -23,24 +23,20 @@ Throughout the academic year, students of any level may volunteer with education
 ___
 
 ## Awards and Scholarships
-Exceptional students may apply to become members of the prestigious Spanish Honor Society: Sigma Delta Pi. A graduating senior is awarded the Sigma Delta Pi prize each year. Upper-class students can also apply for the Kristina Joanne Chelius award. Established in 2009 by Thomas and Joanne Chelius in memory of their daughter Kristina, CLA ’91, this award is given to outstanding junior or senior students majoring in Spanish who have financial need.
+Latin American Studies majors may apply for scholarships with the [Pan-American Association of Philadelphia](https://www.panamphilly.org/programs/scholarships). For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4579&field_awards_academics_class_value=All) page.
 
-**Knudson Journalism Latin American Studies Award**: This scholarship is distributed annually via faculty nomination and is available to students interested in Latin American studies, Latin America or Hispanic culture.
+Students applying for any of the Pan American Association Scholarships must meet the following criteria:
 
-For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4579&field_awards_academics_class_value=All) page.
+- Superior academic performance
+- Major in Latin American or related studies, including Spanish or Portuguese languages
+- Extra-curricular activities or demonstrated experience related to Latin American countries, and
+- Be nominated by a Latin American Studies affiliated professor acquainted with the student
 
 ## Club de Español
 The Spanish Club is a student organization, and its principal goal is to promote the practice of speaking Spanish. One way we achieve this goal is through conversation tables, which allow you to practice your conversation skills in a relaxed environment once a week. We also invite you to join us in celebrating the Hispanic culture all year round with different activities. The Spanish Club meets weekly throughout the semester on Mondays from 4-5 p.m. in 422 Anderson Hall.
 
 Everyone is welcome to join the Spanish Club, and you’re still able to participate in our events even if you don’t become a member. Stop by our meetings and bring friends!
 - Club Coordinator: [Norma Corrales Martin](mailto:ncm@temple.edu)
-
-## Graduate Students of Language at Temple (GSOLT)
-Graduate Students of Language at Temple (GSOLT) connects students who study and are interested in language and helps them form interdisciplinary networks for discussion and research. An annual spring conference showcases students’ research in language from a variety of viewpoints.
-
-GSOLT also promotes interdisciplinary discussion of language and conducts workshops for improving student work. Meetings are held to plan the spring conference and upcoming workshops and to discuss guest speakers. During workshops, we discuss project ideas, current projects and issues we are encountering. We also discuss theory and methods to help us progress in our individual projects and understand approaches to language from different disciplines.
-
-Sign up to join [GSOLT](https://temple.campuslabs.com/engage/organization/GSOLT)! For more information contact: [Bryce Bayer](tua90730@temple.edu) and [Katie Clarkson](tug20217@temple.edu)
 
 ## LASS In The News
 - National University of Costa Rica (UNA).”[General Studies Internationalization](http://www.hoyenelcampus.una.ac.cr//index.php?option=com_content&task=view&id=1766&Itemid=52).” Hoy en el Campus. 27 April 2016.
