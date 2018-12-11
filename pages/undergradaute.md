@@ -49,32 +49,31 @@ Latin American Studies also offers three interdisciplinary certificates in tande
 
 
 <div class="row">
-<div class="col m12 l8">
-  <h3>LAS Courses</h3>
-  <p>
+  <div class="col m12 l8">
+    <h3>LAS Courses</h3>
+    <p>
     Students are required to take eight LAS elective courses in subjects with a Latin American emphasis (1000-4999). Majors must take a minimum of two writing-intensive courses. In addition, students must take the following: LAS 4097, Latin American Studies Capstone Seminar - A writing-intensive senior capstone research seminar brings it all together, with a research paper of your choice on a topic relevant to your chosen thematic track. LAS 1001, Perspectives on Latin America - A gateway course that provides an interdisciplinary examination of social, political, historical, and artistic change in Latin American societies.
-  </p>
-</div>
-<div class="col m12 l4"><br>
-  <div class="course-box">
-    <input type="text" class="rightJustified"/>
-    <b>Popular courses:</b>
-    <ul>
-    <li><a href="https://bulletin.temple.edu/search/?P=LAS%201001" title="Perspectives on Latin America">Perspectives on Latin America</a></li>
-    <li><a href="https://bulletin.temple.edu/search/?P=SPAN%204152" title="US Latino/a Studies">US Latino/a Studies</a></li>
-    <li><a href="https://bulletin.temple.edu/search/?P=LAS%200854" title="Latino Immigration">Latino Immigration</a></li>
-    <li><a href="https://bulletin.temple.edu/search/?P=ARTH%202765" title="Revolution and Beyond: Modern and Contemporary Art in Latin America">Revolution and Beyond: Modern and Contemporary Art in Latin America</a></li>
-    <li><a href="https://bulletin.temple.edu/search/?P=POLS%202231" title="Comparative Political Systems in Latin America">Comparative Political Systems in Latin America</a></li>
-    <li><a href="https://bulletin.temple.edu/search/?P=REL%203702" title="African Religions and New World Culture">African Religions and New World Culture</a></li>
-    <li><a href="https://bulletin.temple.edu/search/?P=PORT%204000" title="Literature and Revolution">Literature and Revolution</a></li> 
-    </ul>
+    </p>
+  </div>
+  <div class="col m12 l4">
+    <div class="course-box">
+      <b>Popular courses:</b>
+      <ul>
+      <li><a href="https://bulletin.temple.edu/search/?P=LAS%201001" title="Perspectives on Latin America">Perspectives on Latin America</a></li>
+      <li><a href="https://bulletin.temple.edu/search/?P=SPAN%204152" title="US Latino/a Studies">US Latino/a Studies</a></li>
+      <li><a href="https://bulletin.temple.edu/search/?P=LAS%200854" title="Latino Immigration">Latino Immigration</a></li>
+      <li><a href="https://bulletin.temple.edu/search/?P=ARTH%202765" title="Revolution and Beyond: Modern and Contemporary Art in Latin America">Revolution and Beyond: Modern and Contemporary Art in Latin America</a></li>
+      <li><a href="https://bulletin.temple.edu/search/?P=POLS%202231" title="Comparative Political Systems in Latin America">Comparative Political Systems in Latin America</a></li>
+      <li><a href="https://bulletin.temple.edu/search/?P=REL%203702" title="African Religions and New World Culture">African Religions and New World Culture</a></li>
+      <li><a href="https://bulletin.temple.edu/search/?P=PORT%204000" title="Literature and Revolution">Literature and Revolution</a></li>
+      </ul>
     </div>
-</div>
+  </div>
 </div>
 
 Student are also required to take one of the following:
 - [LAS 2097, Latin American Studies Writing Seminar I](https://bulletin.temple.edu/search/?P=LAS%202097)
-- [LAS 2098, The Legacy of Mesoamerica](https://bulletin.temple.edu/search/?P=LAS%202098) 
+- [LAS 2098, The Legacy of Mesoamerica](https://bulletin.temple.edu/search/?P=LAS%202098)
 - [LAS 4698, Revolutionary Mexico](https://bulletin.temple.edu/search/?P=LAS%204698)
 
 Students majoring or minoring in Latin American Studies:
