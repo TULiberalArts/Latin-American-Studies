@@ -49,6 +49,11 @@ Latin American Studies also offers three interdisciplinary certificates in tande
 
 <div class="row">
 <div class="col m12 l8">
+  <h3>Global Security</h3>
+  <p>
+    Students are required to take eight LAS elective courses in subjects with a Latin American emphasis (1000-4999). Majors must take a minimum of two writing-intensive courses. In addition, students must take the following; [LAS 4097 Latin American Studies Capstone Seminar](https://bulletin.temple.edu/search/?P=LAS%204097)-  A writing-intensive senior capstone research seminar brings it all together, with a research paper of your choice on a topic relevant to your chosen thematic track. [LAS 1001, Perspectives on Latin America ](https://bulletin.temple.edu/search/?P=LAS%201001)- A gateway course that provides an interdisciplinary examination of social, political, historical, and artistic change in Latin American societies.
+  </p>
+</div>
 <div class="col m12 l4"><br>
   <div class="course-box">
     <b>Popular courses:</b>
@@ -64,13 +69,8 @@ Latin American Studies also offers three interdisciplinary certificates in tande
     </div>
 </div>
 </div>
-</div>
 
-Students are required to take eight LAS elective courses in subjects with a Latin American emphasis (1000-4999). Majors must take a minimum of two writing-intensive courses. In addition, students must take the following:
-- [LAS 4097 Latin American Studies Capstone Seminar](https://bulletin.temple.edu/search/?P=LAS%204097)-  A writing-intensive senior capstone research seminar brings it all together, with a research paper of your choice on a topic relevant to your chosen thematic track.
-- [LAS 1001, Perspectives on Latin America ](https://bulletin.temple.edu/search/?P=LAS%201001)- A gateway course that provides an interdisciplinary examination of social, political, historical, and artistic change in Latin American societies.
-
-And one of the following:
+Student are also required to take one of the following:
 - [LAS 2097, Latin American Studies Writing Seminar I](https://bulletin.temple.edu/search/?P=LAS%202097)
 - [LAS 2098, The Legacy of Mesoamerica](https://bulletin.temple.edu/search/?P=LAS%202098) 
 - [LAS 4698, Revolutionary Mexico](https://bulletin.temple.edu/search/?P=LAS%204698)
