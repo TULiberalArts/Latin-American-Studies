@@ -13,7 +13,9 @@ keywords: 'study abroad, latin american studies semester, courses, application, 
 # custom variables
 sidebar: sidebars/study-abroad.html
 ---
-Spanish degree and Portuguese course students have many exciting study abroad opportunities. Don’t restrict your Portuguese or Spanish education to just the classroom—get out into the Spanish-speaking world! Considering enrolling in the [Latin American Studies Semester](#latin-american-studies-semester-lass); studying abroad in [Ecuador](#about-quito-ecuador), or in Spain during the [spring](#temple-spain-spring-semester-program) or [summer](#temple-spain-summer-semester-program).
+Latin American Studies students have numerous study abroad opportunities. Don’t restrict your to just the classroom—get out into the Spanish, Portuguese and French speaking worlds! Consider enrolling in the [Latin American Studies Semester](#program-overview) to study abroad in [Ecuador](#about-quito-ecuador) for three weeks!  
+
+Additionally, [The Office of Education Abroad](https://studyabroad.temple.edu/) offers students an exciting gamut of study abroad opportunities in Latin America by approved university programs. 
 
 ## Latin American Studies Semester (LASS)
 
