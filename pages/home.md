@@ -21,6 +21,7 @@ Our courses are offered in every Temple University School, College and Departmen
 
 The major and minor are complemented by intensive foreign language instruction and unique study abroad opportunities to prepare our students for their careers. For example, our students have the chance to participate in The [Latin American Studies Semester (LASS)](https://www.cla.temple.edu/latin-american-studies/study-abroad/) which has been offered every spring semester since 1973. An integral part of the LASS program is a three-week trip to Quito, Ecuador in March, during which students are placed in local homes where the only language of communication is Spanish. While in Ecuador, students attend courses at the Andean Center for Latin American Studies.
 
+___
 
 ## Academic Offerings
 - [BA in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/ba-latin-american-studies/)
