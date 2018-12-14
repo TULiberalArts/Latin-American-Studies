@@ -28,7 +28,7 @@ Latin American Studies majors may apply for scholarships with the [Pan-American 
 **Alejandro Reyes Award**<br>
 This $5,000 award is presented by the Pan American Association of Philadelphia to a Junior Year undergraduate student to be used for his or her Senior Year expenses in a college or university of the Delaware Valley.
 
-**Irene Rivera Diaz Award**
+**Irene Rivera Diaz Award**<br>
 The Irene Rivera Diaz award has been established to honor the memory of Mrs. Diaz who was born in Mexico and immigrated to Texas as a young child with her family. She was an active community volunteer, and was committed to serving the working poor and increasing educational opportunities for disadvantaged youth
 
 This $5,000 scholarship is presented by the Pan American Association of Philadelphia to a non-Senior undergraduate student to be used for his or her expenses attending a college or university of the Delaware Valley area.
