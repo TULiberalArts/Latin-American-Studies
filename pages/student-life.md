@@ -52,6 +52,8 @@ Students applying for any of the Pan American Association Scholarships must meet
 - Extra-curricular activities or demonstrated experience related to Latin American countries, and
 - Be nominated by a Latin American Studies affiliated professor acquainted with the student
 
+___
+
 ## Club de Español
 The Spanish Club is a student organization, and its principal goal is to promote the practice of speaking Spanish. One way we achieve this goal is through conversation tables, which allow you to practice your conversation skills in a relaxed environment once a week. We also invite you to join us in celebrating the Hispanic culture all year round with different activities. The Spanish Club meets weekly throughout the semester on Mondays from 4-5 p.m. in 422 Anderson Hall.
 
