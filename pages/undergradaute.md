@@ -26,18 +26,9 @@ The Major in Latin American Studies is flexible and dynamic, allowing you to spe
 Learn More about the [BA in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/ba-latin-american-studies/#requirementstext)
 
 ##  Minor in Latin American Studies
-Students interested in enhancing their degree program may declare a Minor in Latin American Studies. The Minor is of particular value to students who wish to engage in international or domestic work—in trade, business, healthcare, academics, education, government, law or legal and technical work—concerning Latin America and U.S. Latinos. The requirements are six courses in subjects with a Latin American emphasis.  Students must also demonstrate a reading knowledge and speaking facility of Spanish or Portuguese.
+Students interested in enhancing their degree program may declare a Minor in Latin American Studies. The Minor is of particular value to students who wish to engage in international or domestic work—in trade, business, healthcare, academics, education, government, law or legal and technical work—concerning Latin America and U.S. Latinos. The requirements are six courses in subjects with a Latin American emphasis. Students must also demonstrate a reading knowledge and speaking facility of Spanish or Portuguese.
 
 Learn More about the [Minor in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/minor-latin-american-studies/)
-
-Students majoring or minoring in Latin American Studies:
-
-- Study the culture, geography, history, politics, and society of Latin America and the Caribbean.
-- Gain an understanding of the background of the Latino population in the United States.
-- Understand economic development and underdevelopment from a comparative perspective.
-- Gain insight into interdisciplinary work in the social sciences from a variety of methodological perspectives.
-- Improve their writing and critical thinking skills.
-- Combine in-depth training in Spanish and/or Portuguese with the lived experience of speakers of these languages.
 
 ## Certificates
 Latin American Studies also offers three interdisciplinary certificates in tandem with other departments:
@@ -77,6 +68,7 @@ Student are also required to take one of the following:
 - [LAS 4698, Revolutionary Mexico](https://bulletin.temple.edu/search/?P=LAS%204698)
 
 Students majoring or minoring in Latin American Studies:
+
 - Study the cultures, societies, art, media, music, film, literature, history, politics, religion, and foreign relations of Latin America from a multidisciplinary perspective.
 - Gain in-depth understanding of the growing Latino population in the United States.
 - Analyze economic development, U.S.-Latin American foreign relations, and underdevelopment from a comparative and global perspective.
@@ -86,6 +78,6 @@ Students majoring or minoring in Latin American Studies:
 - Enjoy world-class instruction from leading researchers and teachers.
 - Often study abroad to prepare for their careers.  
 
-[Course Catalog](https://liberalarts.temple.edu/sites/liberalarts/files/Spanish-and-Portuguese-Course-Catalog-Fall-2016.pdf)
+[Course Catalog](https://drive.google.com/file/d/1VZBdryS2aFmOV8AmkDEMjRy1CkL_wiNl/view)
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
