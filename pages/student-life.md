@@ -13,15 +13,6 @@ keywords: 'study abroad, latin american studies semester, courses, application, 
 # custom variables
 sidebar: sidebars/student-life.html
 ---
-Spanish and Portuguese aren’t restricted to just Latin America, Spain and Portugal—they’re spoken around the world. So why restrict your Portuguese or Spanish education to just the classroom? Start an internship; apply for [awards and scholarships](#awards-and-scholarships); join the [Club de Español](#club-de-español) or the [Graduate Students of Language at Temple](#graduate-students-of-language-at-temple-gsolt).
-
-## Internships
-The Department of Spanish and Portuguese maintains relationships with a variety of organizations throughout Philadelphia, offering students ample volunteer, community service, research and internship opportunities. Students gain real-world language and work experience through this experiential learning, increasing their skills and confidence.
-
-Throughout the academic year, students of any level may volunteer with educational and neighborhood organizations, such as mentoring primary and high school students, teaching seniors or contributing to the greening of the city infrastructure. In the summer, advanced students may receive credit by taking an internship course for which they invest significant time in an organization. Students have been engaged in service opportunities in journalism, social services, law, heath care, educational development and immigrant rights. By using their language skills to fulfill their responsibilities, students maximize their classroom learning and attain poise in a professional setting.
-
-___
-
 ## Awards and Scholarships
 Latin American Studies majors may apply for scholarships with the [Pan-American Association of Philadelphia](https://www.panamphilly.org/programs/scholarships). For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4579&field_awards_academics_class_value=All) page.
 
