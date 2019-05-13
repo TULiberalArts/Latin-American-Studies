@@ -31,7 +31,7 @@ The Carmelita Manning Community Service Award will go to an undergraduate studen
 
 This $5,000 award is presented by the Pan American Association of Philadelphia to a non-Senior year undergraduate student to be used for his or her expenses in a college or university of the Delaware Valley area.
 
-_Additional Criteria:_ in addition to the common criteria outlined above, students applying to The Carmelita Manning Community Service Award must exemplify the spirit of public service in either Latin America or the Greater Philadelphia Latino community.
+_Additional Criteria:_ In addition to the common criteria outlined above, students applying to The Carmelita Manning Community Service Award must exemplify the spirit of public service in either Latin America or the Greater Philadelphia Latino community.
 
 **Janice Bond Memorial Plaque and Award for Graduating Seniors**<br>
 The Janice Bond Memorial Plaques and $250 monetary award is presented to graduating Seniors of area colleges and universities for general excellence in courses related to Latin America during four years.  No institution, however, shall have more than one recipient of the plaques in a single year.
