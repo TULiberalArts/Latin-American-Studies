@@ -20,11 +20,11 @@ Latin American Studies majors may apply for scholarships with the [Pan-American 
 This $5,000 award is presented by the Pan American Association of Philadelphia to a Junior Year undergraduate student to be used for his or her Senior Year expenses in a college or university of the Delaware Valley.
 
 **Irene Rivera Diaz Award**<br>
-The Irene Rivera Diaz award has been established to honor the memory of Mrs. Diaz who was born in Mexico and immigrated to Texas as a young child with her family. She was an active community volunteer, and was committed to serving the working poor and increasing educational opportunities for disadvantaged youth
+The Irene Rivera Diaz award has been established to honor the memory of Mrs. Diaz who was born in Mexico and immigrated to Texas as a young child with her family. She was an active community volunteer, and was committed to serving the working poor and increasing educational opportunities for disadvantaged youth.
 
 This $5,000 scholarship is presented by the Pan American Association of Philadelphia to a non-Senior undergraduate student to be used for his or her expenses attending a college or university of the Delaware Valley area.
 
-_Additional Criteria:_ in addition to the common criteria outlined above, students applying to the Irene Rivera Diaz Award must demonstrate financial need, and come from a traditionally “disadvantaged” background.
+_Additional Criteria:_ In addition to the common criteria outlined above, students applying to the Irene Rivera Diaz Award must demonstrate financial need, and come from a traditionally “disadvantaged” background.
 
 **The Carmelita Manning Community Service Award**<br>
 The Carmelita Manning Community Service Award will go to an undergraduate student exemplifying the spirit of public service in either Latin America or the Greater Philadelphia Latino community.   We believe that any personal endeavor should always be partnered by a responsibility to serve the community.  With this award, we hope to challenge students to participate in the community and help nurture a sense of global social responsibility and duty.
