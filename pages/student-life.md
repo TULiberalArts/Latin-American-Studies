@@ -52,7 +52,7 @@ Everyone is welcome to join the Spanish Club, and you’re still able to partici
 - Club Coordinator: [Norma Corrales Martin](mailto:ncm@temple.edu)
 
 ## LASS In The News
-- National University of Costa Rica (UNA).”[General Studies Internationalization](http://www.hoyenelcampus.una.ac.cr//index.php?option=com_content&task=view&id=1766&Itemid=52).” Hoy en el Campus. 27 April 2016.
+- National University of Costa Rica (UNA).”[General Studies Internationalization](https://www.unacomunica.una.ac.cr/).” Hoy en el Campus. 27 April 2016.
 - Wilson, Sara Curnow. “[A Semester Unlike Any Other](https://liberalarts.temple.edu/about-us/newsroom/semester-unlike-any-other).” College of Liberal Arts Newsroom. 4 April 2016.
 - Krotzer, Samantha. “[Spanish certificate programs ranked No. 1 nationally](https://news.temple.edu/news/2016-06-30/spanish-certificate-programs-ranked-number-one-nationally).” Temple Now. 30 June 2016.
 
