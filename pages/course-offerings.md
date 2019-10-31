@@ -147,7 +147,7 @@ MWF: 1:00 pm - 1:50 pm<br>
 Location: Anderson Hall 00406<br>
 
 ### Brazilian Portuguese 
-_**(May count for Spanish Major)_**<br>
+**_(May count for Spanish Major)_**<br>
 
 **[Portuguese for Spanish Speakers](https://bulletin.temple.edu/search/?P=PORT%201021)**<br>
 Course: PORT 1021<br>
@@ -195,7 +195,7 @@ Professor Rafael Logrono<br>
 Course: MSP 0823<br>
 TBA<br>
 
-**[Latin American Media](https://bulletin.temple.edu/search/?P=MSP%200823()**<br> 
+**[Latin American Media](https://bulletin.temple.edu/search/?P=MSP%200823)**<br> 
 Professor Vanessa Graber<br> 
 Course: MSP 0823<br>
 Monday 5:30-8:00pm<br>
