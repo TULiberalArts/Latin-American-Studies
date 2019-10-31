@@ -84,8 +84,8 @@ Professor Patricia Hansell<br>
 Course: LAS 2169.001<br>
 Monday/Wednesday/Friday 2-2:50pm<br>
 Location: Gladfelter Hall 00326<br> 
+Cross-listed with: ANTH 8110 and ANTH 2169<br>
   
-**Cross-listed with: ANTH 8110 and ANTH 2169**]()**<br>
 **[Special Topics: LASS Seminar](https://bulletin.temple.edu/search/?P=LAS%202220)**<br>
 Professor Fernando Fonseca Pacheco<br>
 Course: LAS 2220.001<br> 
