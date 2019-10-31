@@ -28,3 +28,23 @@ ___
 - [Minor in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/minor-latin-american-studies/)
 
 ___
+
+<div class="container">
+ <div class="row">   
+  <div class="col s12 m6">{% include cards/card2-basic.html
+    title="Spring 2020 LAS Course Offerings "
+    content="Check out our brand new Spring 2020 LAS course offerings!"
+    image=""
+    button-link="https://www.cla.temple.edu/latin-american-studies/course-offerings"
+    button-text="Learn More" %}
+  </div>
+<div class="container">
+ <div class="row">   
+  <div class="col s12 m6">{% include cards/card2-basic.html
+        title="Latin American Studies Semester"
+        content="This unique language immersion program provides you with an intensive experience studying the Spanish language in combination with an interdisciplinary study of life and contemporary issues in Latin America."
+        image=""
+        button-link="https://www.cla.temple.edu/latin-american-studies/study-abroad/"
+        button-text="Learn More" %}
+      </div>
+</div>
