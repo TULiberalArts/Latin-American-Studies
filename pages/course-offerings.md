@@ -194,7 +194,7 @@ Professor Rafael Logrono<br>
 Course: MSP 0823<br>
 TBA<br>
 
-**[Latin American Media]https://bulletin.temple.edu/search/?P=MSP%200823()**<br> 
+**[Latin American Media](https://bulletin.temple.edu/search/?P=MSP%200823()**<br> 
 Professor Vanessa Graber<br> 
 Course: MSP 0823<br>
 Monday 5:30-8:00pm<br>
