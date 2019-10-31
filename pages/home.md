@@ -27,8 +27,6 @@ ___
 - [BA in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/ba-latin-american-studies/)
 - [Minor in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/minor-latin-american-studies/)
 
-___
-
 <div class="container">
  <div class="row">   
   <div class="col s12 m6">{% include cards/card2-basic.html
@@ -48,3 +46,5 @@ ___
         button-text="Learn More" %}
       </div>
 </div>
+
+___
