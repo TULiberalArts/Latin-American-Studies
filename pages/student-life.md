@@ -42,7 +42,7 @@ Latin American Studies majors may apply for scholarships with the [Pan-American 
 <details>
   <summary><strong>Janice Bond Memorial Plaque and Award for Graduating Seniors</strong></summary>
 <p>The Janice Bond Memorial Plaques and $250 monetary award is presented to graduating Seniors of area colleges and universities for general excellence in courses related to Latin America during four years.  No institution, however, shall have more than one recipient of the plaques in a single year.</p>
-</details>
+</details><br>
 
 Students applying for any of the Pan American Association Scholarships must meet the following criteria:
 
