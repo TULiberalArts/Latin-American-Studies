@@ -23,7 +23,7 @@ The major and minor are complemented by intensive foreign language instruction a
 
 ## Academic Offerings
 - [BA in Latin American Studies](https://www.temple.edu/academics/degree-programs/latin-american-studies-major-la-las-ba)
-- [Minor in Latin American Studies](https://www.temple.edu/academics/degree-programs/latin-american-studies-major-la-las-ba)
+- [Minor in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/minor-latin-american-studies/)
 
 ___
 
