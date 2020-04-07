@@ -16,6 +16,13 @@ sidebar: sidebars/student-life.html
 ## Awards and Scholarships
 Latin American Studies majors may apply for scholarships with the [Pan-American Association of Philadelphia](https://www.panamphilly.org/programs/scholarships). For a complete list of departmental and college level awards and scholarships you may be eligible for, please visit the [Latin American Studies Scholarships and Financial Aid](https://www.temple.edu/academics/degree-programs/latin-american-studies-major-la-las-ba/cla-latin-american-studies-ba-scholarships) page.
 
+Students applying for any of the Pan American Association Scholarships must meet the following criteria:
+
+- Superior academic performance
+- Major in Latin American or related studies, including Spanish or Portuguese languages
+- Extra-curricular activities or demonstrated experience related to Latin American countries, and
+- Be nominated by a Latin American Studies affiliated professor acquainted with the student
+
 ___
 
 ## Club de Español
