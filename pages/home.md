@@ -30,8 +30,8 @@ ___
 <div class="container">
  <div class="row">   
   <div class="col s12 m6">{% include cards/card2-basic.html
-    title="Spring 2020 LAS Course Offerings "
-    content="Check out our brand new Spring 2020 LAS course offerings!"
+    title="Fall 2020 LAS Course Offerings "
+    content="Check out our brand new Fall 2020 LAS course offerings!"
     image=""
     button-link="https://www.cla.temple.edu/latin-american-studies/course-offerings"
     button-text="Learn More" %}
