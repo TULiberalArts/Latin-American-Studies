@@ -23,7 +23,7 @@ Our students have the opportunity to study in Latin America for a semester or mo
 ##  BA in Latin American Studies
 The Major in Latin American Studies is flexible and dynamic, allowing you to specialize in a number of fields such as history, sociology, religion, political science, art history, media studies, U.S.-Latin American relations, U.S. Latino Studies, or Latin American literature, language, and film.  The requirements are eleven courses and a capstone research project. The flexible track allows students to identify a program of study that draws from a structured set of requirements and electives, culminating in a research-based and writing-intensive capstone seminar. Students must also demonstrate a reading and speaking knowledge of Spanish or Portuguese.
 
-Learn More about the [BA in Latin American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/latin-american-studies/ba-latin-american-studies/#requirementstext)
+Learn More about the [BA in Latin American Studies](https://www.temple.edu/academics/degree-programs/latin-american-studies-major-la-las-ba)
 
 ##  Minor in Latin American Studies
 Students interested in enhancing their degree program may declare a Minor in Latin American Studies. The Minor is of particular value to students who wish to engage in international or domestic work—in trade, business, healthcare, academics, education, government, law or legal and technical work—concerning Latin America and U.S. Latinos. The requirements are six courses in subjects with a Latin American emphasis. Students must also demonstrate a reading knowledge and speaking facility of Spanish or Portuguese.
@@ -32,41 +32,11 @@ Learn More about the [Minor in Latin American Studies](http://bulletin.temple.ed
 
 ## Certificates
 Latin American Studies also offers three interdisciplinary certificates in tandem with other departments:
-- [Spanish and Latin American Studies for Business](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish-latin-american-studies-business/#requirementstext)
-- [Latino Studies and Spanish for the Health and Human Services Professions](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-spanish-latino-studies-health-human-services-professions/)
-- [Latin American Studies Semester Certificate and Program](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-latin-american-studies/)
+- [Spanish and Latin American Studies for Business](https://www.temple.edu/academics/degree-programs/spanish-and-latin-american-studies-for-business-certificate-undergraduate-la-slsb-cr2%2B)
+- [Latino Studies and Spanish for the Health and Human Services Professions](https://www.temple.edu/academics/degree-programs/spanish-and-latin-studies-health-and-human-services-certificate-undergraduate-la-slsh-cr2%2B)
+- [Latin American Studies Semester Certificate and Program](https://www.temple.edu/academics/degree-programs/latin-american-studies-certificate-undergraduate-la-las-cert)
 
 ## Coursework
-
-
-<div class="row">
-  <div class="col m12 l8">
-    <h3>LAS Courses</h3>
-    <p>
-    Students are required to take eight LAS elective courses in subjects with a Latin American emphasis (1000-4999). Majors must take a minimum of two writing-intensive courses. In addition, students must take the following: LAS 4097, Latin American Studies Capstone Seminar - A writing-intensive senior capstone research seminar brings it all together, with a research paper of your choice on a topic relevant to your chosen thematic track. LAS 1001, Perspectives on Latin America - A gateway course that provides an interdisciplinary examination of social, political, historical, and artistic change in Latin American societies.
-    </p>
-  </div>
-  <div class="col m12 l4">
-    <div class="course-box">
-      <b>Popular courses:</b>
-      <ul>
-      <li><a href="https://bulletin.temple.edu/search/?P=LAS%201001" title="Perspectives on Latin America">Perspectives on Latin America</a></li>
-      <li><a href="https://bulletin.temple.edu/search/?P=SPAN%204152" title="US Latino/a Studies">US Latino/a Studies</a></li>
-      <li><a href="https://bulletin.temple.edu/search/?P=LAS%200854" title="Latino Immigration">Latino Immigration</a></li>
-      <li><a href="https://bulletin.temple.edu/search/?P=ARTH%202765" title="Revolution and Beyond: Modern and Contemporary Art in Latin America">Revolution and Beyond: Modern and Contemporary Art in Latin America</a></li>
-      <li><a href="https://bulletin.temple.edu/search/?P=POLS%202231" title="Comparative Political Systems in Latin America">Comparative Political Systems in Latin America</a></li>
-      <li><a href="https://bulletin.temple.edu/search/?P=REL%203702" title="African Religions and New World Culture">African Religions and New World Culture</a></li>
-      <li><a href="https://bulletin.temple.edu/search/?P=PORT%204000" title="Literature and Revolution">Literature and Revolution</a></li>
-      </ul>
-    </div>
-  </div>
-</div>
-
-Student are also required to take one of the following:
-- [LAS 2097, Latin American Studies Writing Seminar I](https://bulletin.temple.edu/search/?P=LAS%202097)
-- [LAS 2098, The Legacy of Mesoamerica](https://bulletin.temple.edu/search/?P=LAS%202098)
-- [LAS 4698, Revolutionary Mexico](https://bulletin.temple.edu/search/?P=LAS%204698)
-
 Students majoring or minoring in Latin American Studies:
 
 - Study the cultures, societies, art, media, music, film, literature, history, politics, religion, and foreign relations of Latin America from a multidisciplinary perspective.
@@ -77,7 +47,5 @@ Students majoring or minoring in Latin American Studies:
 - Combine training in Spanish and/or Portuguese with the lived experience of speakers of these languages.
 - Enjoy world-class instruction from leading researchers and teachers.
 - Often study abroad to prepare for their careers.  
-
-[Course Catalog](https://drive.google.com/file/d/1VZBdryS2aFmOV8AmkDEMjRy1CkL_wiNl/view)
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
