@@ -37,7 +37,7 @@ Latin American Studies also offers three interdisciplinary certificates in tande
 - [Latin American Studies Semester Certificate and Program](https://www.temple.edu/academics/degree-programs/latin-american-studies-certificate-undergraduate-la-las-cert)
 
 ## Coursework
-You can view the entire [Fall 2020 Latin American Studies Course Offerings](https://www.cla.temple.edu/latin-american-studies/course-offerings/)!
+You can view the entire [Fall 2020 Latin American Studies Course Offerings](https://www.cla.temple.edu/latin-american-studies/course-offerings/) as well as the [Fall 2020 Catalog](https://drive.google.com/file/d/1ydryN2vL8YsrKvjp2wLie42Jn6_4EY4n/view?usp=sharing)!
 
 **Students majoring or minoring in Latin American Studies:**<br>
 - Study the cultures, societies, art, media, music, film, literature, history, politics, religion, and foreign relations of Latin America from a multidisciplinary perspective.
