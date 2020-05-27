@@ -20,7 +20,7 @@ Students of Latin American Studies have the opportunity to participate in the La
 ## Travel The World
 Our students have the opportunity to study in Latin America for a semester or more. Our interdisciplinary program means that most credits taken through approved study abroad programs will apply toward graduation. Recent graduates have studied in Argentina, Brazil, Chile, the Dominican Republic, Ecuador, Guatemala, Mexico and Peru.
 
-##  BA in Latin American Studies
+##  Bachelor of Arts in Latin American Studies
 The Major in Latin American Studies is flexible and dynamic, allowing you to specialize in a number of fields such as history, sociology, religion, political science, art history, media studies, U.S.-Latin American relations, U.S. Latino Studies, or Latin American literature, language, and film.  The requirements are eleven courses and a capstone research project. The flexible track allows students to identify a program of study that draws from a structured set of requirements and electives, culminating in a research-based and writing-intensive capstone seminar. Students must also demonstrate a reading and speaking knowledge of Spanish or Portuguese.
 
 Learn More about the [BA in Latin American Studies](https://www.temple.edu/academics/degree-programs/latin-american-studies-major-la-las-ba)
