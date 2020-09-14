@@ -15,12 +15,13 @@ Temple University Latin American Studies students have a number of resources ava
 ## Advising Resources
 
 ### Advising: Where Do I Go If I Have Questions About:
-- **Majors (course selection and registration, sign additional drop forms, career development, referrals):** [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
-- **Minors (course selection and registration):** [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
-- **Latin American Studies Semester (LASS):** [Hiram Aldarondo](mailto:hiram.aldarondo@temple.edu) (Program Director), [Patricia Moore-Martinez](mailto:pmoore04@temple.edu) (Coordinator)
-- **Brazilian Studies:** [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
-- **Study Abroad:** [Augusto Lorenzino](mailto:augusto.lorenzino@temple.edu)
-- **Transfer Credit:** [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
+
+- Majors (course selection and registration, sign additional drop forms, career development, referrals): [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
+- Minors (course selection and registration):** [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
+- Latin American Studies Semester (LASS): [Patricia Moore-Martinez](mailto:pmoore04@temple.edu) (Program Director)
+- Brazilian Studies: [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
+- Study Abroad: [Augusto Lorenzino](mailto:augusto.lorenzino@temple.edu)
+- Transfer Credit: [Adam Joseph Shellhorse](mailto:aj.shellhorse@temple.edu)
 
 ### Tutoring
 If you need a tutor to help your language classes, the Spanish and Portuguese department has graduate students/TA’s that are willing to meet with you for a fee. Please feel free to contact them with any questions.
