@@ -26,13 +26,12 @@ Temple University Latin American Studies students have a number of resources ava
 ### Tutoring
 If you need a tutor to help your language classes, the Spanish and Portuguese department has graduate students/TA’s that are willing to meet with you for a fee. Please feel free to contact them with any questions.
 
-**AY 2018- 19 Available Spanish Tutors**<br>
+**AY 2020- 21 Available Spanish Tutors**<br>
 - [Kaltra Marku](mailto:tuc33373@temple.edu)
-- [Laura Arevalo Catalan](mailto:tue64356@temple.edu)
 - [José Guillermo Rodríguez-Plaza](mailto:tue64356@temple.edu)
 
-**AY 2018-19 Available Portuguese Tutors**<br>
-- [Renata Pontes](mailto:tuh34211@temple.edu)
+**AY 2020-21 Available Portuguese Tutors**<br>
+- [Renata Pontes De Queiroz](mailto:tuh34211@temple.edu)
 
 Note: You may also contact the Russell Conwell Learning Center, Suite 202, 1700 N. Broad St., Phila, PA 19122 at [215-204-1252](tel:2152041252). They may have undergraduate students that will tutor for free.
 
