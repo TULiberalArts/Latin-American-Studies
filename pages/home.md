@@ -27,6 +27,7 @@ The major and minor are complemented by intensive foreign language instruction a
 
 ___
 
+
 <div class="container">
  <div class="row">   
   <div class="col s12 m6">{% include cards/card2-basic.html
