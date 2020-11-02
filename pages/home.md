@@ -34,7 +34,7 @@ ___
     title="Fall 2020 LAS Course Offerings "
     content="Check out our brand new Fall 2020 LAS course offerings!"
     image=""
-    button-link="https://www.cla.temple.edu/latin-american-studies/course-offerings"
+    button-link="https://www.cla.temple.edu/latin-american-studies/undergraduate#coursework"
     button-text="Learn More" %}
   </div>
 <div class="container">
