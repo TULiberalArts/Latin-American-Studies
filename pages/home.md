@@ -31,10 +31,10 @@ ___
 <div class="container">
  <div class="row">   
   <div class="col s12 m6">{% include cards/card2-basic.html
-    title="Fall 2020 LAS Course Offerings "
+    title="Spring 2021 LAS Course Offerings"
     content="Visit our undergraduate page to check out our brand new Spring 2021 LAS course offerings!"
     image=""
-    button-link="https://www.cla.temple.edu/latin-american-studies/undergraduate#coursework/"
+    button-link="/latin-american-studies/undergraduate#coursework"
     button-text="Learn More" %}
   </div>
 <div class="container">
