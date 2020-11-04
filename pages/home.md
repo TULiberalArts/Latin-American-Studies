@@ -12,7 +12,7 @@ keywords: 'academic offerings, major, minor, latin american studies'
 # custom variables
 promotion-table: true
 feature: true
-feature-image: media/LAAS_hero.jpg
+feature-image: media/LAAS_hero2.jpg
 ---
 ## Explore Latin America through a Multidisciplinary and Flexible Approach
 Latin American Studies (LAS) offers a dynamic, multilayered, and flexible approach to learning about the cultures, languages, societies, politics, and economies of Latin America.  Taught by award-winning faculty, our classes explore Latin America as a crucial global framework and as a strategic player, exploring pivotal issues in such disciplines as History, Sociology, Anthropology, Art History, Religion, Spanish and Portuguese, U.S. Latino Studies, Film Studies, Literature, Musicology, Political Science, Global Studies, Media and Communication Studies, Women’s and Gender Studies, Critical Race, Immigration and Diaspora Studies, and Africana and Africology Studies. 
