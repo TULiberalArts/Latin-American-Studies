@@ -31,8 +31,8 @@ ___
 <div class="container">
  <div class="row">   
   <div class="col s12 m6">{% include cards/card2-basic.html
-    title="Spring 2021 LAS Course Offerings"
-    content="Visit our undergraduate page to check out our brand new Spring 2021 LAS course offerings!"
+    title="Fall 2021 LAS Course Offerings"
+    content="Visit our undergraduate page to check out our brand new Fall 2021 LAS course offerings!"
     image=""
     button-link="/latin-american-studies/undergraduate#coursework"
     button-text="Learn More" %}
